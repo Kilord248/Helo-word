@@ -1,2 +1,2 @@
 # Helo-word
-apenas outro repositorio
+Olá,sou vinicius e estou aprendendo sobre programação  :)
